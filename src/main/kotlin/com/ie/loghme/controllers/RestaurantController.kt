@@ -1,7 +1,7 @@
-package com.ie.loghme.models.controllers
+package com.ie.loghme.controllers
 
 import com.ie.loghme.models.Restaurant
-import com.ie.loghme.models.repositories.RestaurantRepository
+import com.ie.loghme.repositories.RestaurantRepository
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.web.bind.annotation.*
 import javax.servlet.http.HttpServletRequest

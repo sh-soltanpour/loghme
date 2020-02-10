@@ -1,4 +1,4 @@
-package com.ie.loghme.models.repositories
+package com.ie.loghme.repositories
 
 import com.ie.loghme.models.Restaurant
 import org.springframework.data.mongodb.repository.MongoRepository
